@@ -10,9 +10,6 @@
 
 <img src="WalkThrough.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-### Notes
-Describe any challenges encountered while building the app.
-
 # Flix
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
